@@ -22,6 +22,6 @@ Census Income Dataset
 
 pip install -r requirements.txt
 
-Open notebook: http://localhost:8889/lab/tree/deep/Deep-Learning-with-PyTorch-main/workshop.ipynb
+Open notebook:
 
 notebooks/workshop.ipynb
